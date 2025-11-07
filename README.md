@@ -1,7 +1,8 @@
 # Digital Habit Tracker
 Working with Data and Code; A2 Code Prototype Project 
 > This project is a monthly habit tracking prototype designed specfically for ADHD and neurodivergent children and young adolescents. The interface uses pastel colour coding UI, low-clutter spacing & font design, large hit targets, and simplified navigation to reduce cognitive load and support routine building. This prototype also transforms each month’s habit data into generative visualisation. Each habit becomes a coloured radial “growth ring”; the amount of completed days determines how far that arc grows. Built in Processing (Python Mode) to demonstrate code literacy, interaction design, and how generative visuals can positively reinforce routine-building.
-<img width="1280" height="914" alt="image" src="https://github.com/user-attachments/assets/912bb168-84a8-4271-a6c4-928a3987d222" />
+<img width="2286" height="1510" alt="image" src="https://github.com/user-attachments/assets/35860b7e-f049-4e54-9cc7-773dabe1dfd7" />
+
 
 ## General Information
 - Description: This is a Provide general information about your project here. Each ring = a habit, arc length = % completed. Data is saved per-month (CSV/TXT) so each month starts clean while preserving history.- What problem does it (intend to) solve?
